@@ -1,0 +1,5 @@
+<library path="lib/libdstar_lib">
+ <class name="plannerD/ROSplanner" type="plannerD::ROSplanner" base_class_type="nav_core::BaseGlobalPlanner">
+   <description>This is D* global planner plugin by thesis project.</description>
+ </class>
+</library>
